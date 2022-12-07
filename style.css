@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container {
+   text-align: center;
+   margin: 15%;
+   
+}
+button {
+    padding: 13px;
+    margin-left: 8px;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+h1 {
+    margin: 10px;
+    font-size: 50px;
+    color: black;
+    
+} 
+
+.laranja {
+    background-color: orange;
+    border: 0px;
+    transition-duration: 0.8s;
+}
+.vermelho {
+    background-color: rgb(195, 28, 28);
+    border: 0px;
+    transition-duration: 0.8s
+}
+.roxo {
+    background-color: purple;
+    border: 0px;
+    transition-duration: 0.8s;
+}
+.white {
+    background-color: rgb(239, 241, 242);
+    color:rgb(178, 182, 186);
+    border: 0px;
+    transition-duration: 0.8s;
+}
