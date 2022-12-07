@@ -1,1 +1,1 @@
-# color-selector
+Um seletor de cores, utilizando javascript.
