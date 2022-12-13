@@ -30,7 +30,7 @@ h1 {
     transition-duration: 0.8s;
 }
 .vermelho {
-    background-color: rgb(226, 7, 7);
+    background-color: red;
     border: 0px;
     transition-duration: 0.8s
 }
